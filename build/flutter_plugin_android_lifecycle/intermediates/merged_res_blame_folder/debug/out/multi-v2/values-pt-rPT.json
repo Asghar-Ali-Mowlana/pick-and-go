@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/asghar_ali_mowlana/Asghar Ali Mowlana/Education/Formal/Esoft/BSc (Hons) Computer Science (Software Engineering) Top Up – Kingston University London/Software Development Practice/Coursework/CW1/Prototype App/PICKandGO FINAL APP/pickandgothelast/build/flutter_plugin_android_lifecycle/intermediates/incremental/mergeDebugResources/merged.dir/values-pt-rPT/values-pt-rPT.xml",
+            "map": [
+                {
+                    "source": "/home/asghar_ali_mowlana/.gradle/caches/transforms-2/files-2.1/14b93615368c2249f1830e26ca064ab5/core-1.6.0/res/values-pt-rPT/values-pt-rPT.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/asghar_ali_mowlana/Asghar Ali Mowlana/Education/Formal/Esoft/BSc (Hons) Computer Science (Software Engineering) Top Up – Kingston University London/Software Development Practice/Coursework/CW1/Prototype App/PICKandGO FINAL APP/pickandgothelast/build/flutter_plugin_android_lifecycle/intermediates/res/merged/debug/values-pt-rPT/values-pt-rPT.xml",
+            "map": [
+                {
+                    "source": "/home/asghar_ali_mowlana/.gradle/caches/transforms-2/files-2.1/14b93615368c2249f1830e26ca064ab5/core-1.6.0/res/values-pt-rPT/values-pt-rPT.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}
